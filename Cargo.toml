@@ -1,0 +1,12 @@
+[package]
+name = "crab-rave"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arraydeque = "0.4.5"
+captrs = "0.3.1"
+png = "0.16.8"
+winput = "0.2.4"
